@@ -1,0 +1,22 @@
+img {
+    /* width: 250px; */
+    height: 250px;
+    margin: 15px;
+    font-style: italic;
+    position: relative;
+}
+
+p {
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* .one {
+    width: 300;
+} */
+
+body{
+    background-color: rgb(190, 46, 91);
+}

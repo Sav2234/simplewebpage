@@ -1,0 +1,22 @@
+img {
+    width: 150px;
+    border-radius: 75px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 50px;
+    font-style: italic;
+    position: relative;
+}
+
+.welcome{
+    font-weight: bold;
+}
+
+.links{
+    font-weight: bold;
+    font-style: italic;
+}
+
+body{
+    background-color: rgb(71, 197, 128);
+}
